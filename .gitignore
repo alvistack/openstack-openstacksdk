@@ -53,3 +53,5 @@ ChangeLog
 # Editors
 *~
 .*.swp
+
+.pybuild/
