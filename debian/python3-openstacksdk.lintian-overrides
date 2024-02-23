@@ -1,0 +1,4 @@
+python3-openstacksdk: copyright-without-copyright-notice
+python3-openstacksdk: initial-upload-closes-no-bugs
+python3-openstacksdk: no-manual-page
+python3-openstacksdk: zero-byte-file-in-doc-directory
