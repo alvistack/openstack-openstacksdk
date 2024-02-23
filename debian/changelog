@@ -1,0 +1,5 @@
+python-openstacksdk (100:4.5.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/openstack/openstacksdk/releases/tag/4.5.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Fri, 11 Apr 2025 14:00:41 +0800
