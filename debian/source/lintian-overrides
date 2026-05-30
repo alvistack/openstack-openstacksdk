@@ -1,0 +1,5 @@
+python-openstacksdk source: file-without-copyright-information
+python-openstacksdk source: no-debian-changes
+python-openstacksdk source: source-contains-prebuilt-windows-binary
+python-openstacksdk source: source-is-missing
+python-openstacksdk source: source-package-encodes-python-version
